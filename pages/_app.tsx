@@ -5,7 +5,7 @@ import "antd/dist/antd.css";
 
 const aliases = {
   definitions: {
-    myNotes: "kjzl6cwe1jw149lczaa6b60j55phdt8y77pjd29wilfercijywj1g41cenx2ajk",
+    myNotes: "kjzl6cwe1jw147dufed540cxiw2favehmenrl52ae7stdqgbsp2nhtrbzb7celb",
     basicProfile:
       "kjzl6cwe1jw145cjbeko9kil8g9bxszjhyde21ob8epxuxkaon1izyqsu8wgcic",
     cryptoAccounts:
@@ -15,9 +15,9 @@ const aliases = {
   },
   schemas: {
     Note3:
-      "ceramic://k3y52l7qbv1fryixb0qent6feetgpo061ywb6tb49njprdj1ycijafxscdgppdv5s",
+      "ceramic://k3y52l7qbv1frxvoei5es7z4dj3z7x440i4wkpxhk36l2yujpmcwpxxc2twandbeo",
     Note3s:
-      "ceramic://k3y52l7qbv1frxsnlhn49un0qwgtd0qeaajll3d37de5x2dm7121huc5ek88ntbeo",
+      "ceramic://k3y52l7qbv1fry9v22ltzwrnlgavf85sdyi9kmt3hvnljakoecakrzs57f22xat4w",
     BasicProfile:
       "ceramic://k3y52l7qbv1frxt706gqfzmq6cbqdkptzk8uudaryhlkf6ly9vx21hqu4r6k1jqio",
     CryptoAccounts:
