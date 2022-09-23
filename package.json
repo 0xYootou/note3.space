@@ -1,0 +1,32 @@
+{
+  "name": "note3.space",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@datamodels/identity-accounts-crypto": "^0.2.0",
+    "@datamodels/identity-accounts-web": "^0.2.0",
+    "@datamodels/identity-profile-basic": "^0.2.0",
+    "@glazed/devtools": "^0.2.0",
+    "@self.id/framework": "^0.3.3",
+    "antd": "^4.23.2",
+    "key-did-provider-ed25519": "^2.0.1",
+    "moment": "^2.29.4",
+    "next": "12.3.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.7.18",
+    "@types/react": "18.0.20",
+    "@types/react-dom": "18.0.6",
+    "eslint": "8.23.1",
+    "eslint-config-next": "12.3.1",
+    "typescript": "4.8.3"
+  }
+}
