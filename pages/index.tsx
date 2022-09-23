@@ -13,6 +13,7 @@ import { ModelManager } from "@glazed/devtools";
 import { CeramicClient } from "@ceramicnetwork/http-client";
 import React from "react";
 import { Core } from "@self.id/core";
+
 import {
   Timeline,
   Input,
