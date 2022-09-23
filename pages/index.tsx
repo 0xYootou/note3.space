@@ -8,7 +8,7 @@ import Head from "next/head";
 import Image from "next/image";
 import { useContext, useEffect } from "react";
 import styles from "../styles/Home.module.css";
-import { ConnectButton } from "./connect";
+import { ConnectButton } from "../components/connect";
 import { ModelManager } from "@glazed/devtools";
 import { CeramicClient } from "@ceramicnetwork/http-client";
 import React from "react";
