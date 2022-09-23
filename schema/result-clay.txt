@@ -1,0 +1,7 @@
+{
+  definitions: {},
+  schemas: {
+    Note3: 'ceramic://k3y52l7qbv1fryo9kj7tvq1d2xal5caxgxa1uo3gsmqklaewuly4d8sq7yqu1c5q8'
+  },
+  tiles: {}
+}
